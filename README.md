@@ -1,8 +1,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Devanga Palliyaguru</h1>
-<h3 align="center">I’m a Sri Lankan developer with a passion for data science and full stack innovation, thriving where code meets creativity.</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5454939-Tech-Recruiter-For-Codility/attachments/10878245?mode=media”>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Lato&color=violet&size=25&center=true&vCenter=true&width=700&height=100&lines=Data+Science+Student,;Passionate+for+Data+Science+and+Full+Stack+Development">
+</a>
+
+
+</p>
+
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif”>
 
 
 
