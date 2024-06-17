@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Devanga Palliyaguru</h1>
 <h3 align="center">I’m a Sri Lankan developer with a passion for data science and full stack innovation, thriving where code meets creativity.</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5454939-Tech-Recruiter-For-Codility/attachments/10878245?mode=media”>
